@@ -195,7 +195,7 @@ export default function App() {
             <button
               type="submit"
               disabled={!nameInput.trim()}
-              className="w-full py-3 bg-indigo-600 text-white rounded-xl font-bold uppercase tracking-wider hover:bg-indigo-500 disabled:opacity-50 disabled:cursor-not-allowed transition-colors shadow-sm"
+              className="w-full py-3 bg-emerald-600 text-white rounded-xl font-bold uppercase tracking-wider hover:bg-emerald-500 disabled:opacity-50 disabled:cursor-not-allowed transition-colors shadow-sm"
             >
               Start Session
             </button>
